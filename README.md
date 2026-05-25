@@ -116,6 +116,9 @@ if st.button("解析する"):
 '''
         st.write(commentary)
 
+streamlit
+pandas
+
 # Soul Reader
 
 小説を入力すると、
@@ -143,6 +146,3 @@ Streamlit Community Cloud にアップロード。
 https://streamlit.io/cloud
 
 GitHubへ置くだけで公開できます。
-
-streamlit
-pandas
